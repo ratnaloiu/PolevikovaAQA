@@ -1,4 +1,4 @@
-package zadachi.aqa;
+package zadachi.aqa.polevikova;
 import java.util.Scanner;
 
 public class Zadacha3 {
